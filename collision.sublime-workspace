@@ -1,0 +1,426 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"int",
+				"int\tclass"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"m",
+				"m"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "classes.py",
+			"settings":
+			{
+				"buffer_size": 1360,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "main.py",
+			"settings":
+			{
+				"buffer_size": 8429,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "collision_helper.py",
+			"settings":
+			{
+				"buffer_size": 2361,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"type",
+				"MypyReveal: Type"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove package\t",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Package Contro: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/projects/Python/collision/render.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/User/CodeMap/Code - Map",
+		"/C/projects/Python/soldiers/landscapes.py",
+		"/C/projects/Python/soldiers/geometry.py",
+		"/C/projects/Python/soldiers/main.py",
+		"/C/projects/Python/soldiers/test.py",
+		"/C/projects/Python/opengl/main.py",
+		"/C/projects/Python/collision/collision_helper.py",
+		"/C/projects/Python/soldiers/hitboxes.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/projects/Python/soldiers/soldiers.sublime-project",
+		"/C/projects/Python/collision/main.py",
+		"/C/projects/python/thingy/collision_helper.py",
+		"/C/projects/python/thingy/classes.py",
+		"/C/projects/python/thingy/main.py",
+		"/C/Users/Nicolas/Documents/#Programs/Python/thingy/classes.py",
+		"/C/Users/Nicolas/Documents/#Programs/Python/thingy/collision_helper.py",
+		"/C/Users/Nicolas/Documents/#Programs/Python/thingy/main.py",
+		"/C/Users/Nicolas/AppData/Roaming/Python/Python37/site-packages/pygame/color.cp37-win_amd64.pyd",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Installed Packages/Python Checker.sublime-package",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/PyDOC/messages/install.txt",
+		"/C/Users/Nicolas/Documents/#Programs/Python/messing",
+		"/C/Users/Nicolas/Documents/#Programs/simulator/simulator.py",
+		"/C/Users/Nicolas/Documents/#Uni/1B/PhysA OWO/Q7.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda_lib/__init__.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda_server/__init__.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/anaconda_lib/autopep/autopep8_lib/lib2to3/fixes/fix_exec.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Preferences.sublime-settings",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Anaconda/setup.py",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/User/Conda (Windows).sublime-settings",
+		"/C/Users/Nicolas/AppData/Roaming/Sublime Text 3/Packages/Conda/Conda (Windows).sublime-settings"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"MAPSIZE",
+			"intxs",
+			"other",
+			"\ndef _shape_switch(shape: Shape):\n\n        if isinstance(other, Circle):\n            return self._intxs_circle(other)\n        elif isinstance(other, Rectangle):  # check this before Polygon\n            return self._intxs_rectangle(other)\n        elif isinstance(other, Polygon):\n            return self._intxs_polygon(other)\n        else:\n            raise NotImplementedError(\n                \"Undefined behaviour for \" + str(type(other)) + \" in \" +\n                str(type(self)) + \".intersects(..)\"\n            )",
+			"@property",
+			"float\\(.*\\)",
+			"float(radius)",
+			"float\\(.*\\)",
+			"float(radius)",
+			"float\\(.*\\)",
+			"SupportsFloat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"radius"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "classes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								39,
+								39
+							]
+						],
+						"settings":
+						{
+							"SL.13.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"SL.41.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5259,
+								5259
+							]
+						],
+						"settings":
+						{
+							"SL.15.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2210.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "collision_helper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.42.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 108.0
+	},
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "collision.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 114.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
